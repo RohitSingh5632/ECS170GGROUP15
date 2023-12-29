@@ -1,4 +1,4 @@
-# ECS170GGROUP15
+# ECS170 Artificial Intelligence
 
 A* Algorithmn (in 5.5x space size) 
 https://www.youtube.com/watch?v=pSOkvXwK9FY&ab_channel=cxiong
